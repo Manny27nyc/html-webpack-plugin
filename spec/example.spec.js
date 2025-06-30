@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * These integration tests compile all cases from the example folder
  * and matches them against their dist folder

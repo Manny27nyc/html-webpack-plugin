@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var path = require('path');
 var HtmlWebpackPlugin = require('../..');
 var webpackMajorVersion = require('webpack/package.json').version.split('.')[0];

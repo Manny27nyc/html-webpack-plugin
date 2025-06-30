@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 require('./main.css');
 var multiply = require('./lib-multiply.js');
 var concat = require('./lib-concat.js');

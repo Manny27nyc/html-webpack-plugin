@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 require('./main.css');
 // Use the same template for the frontend code

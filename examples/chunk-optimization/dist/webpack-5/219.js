@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 (self["webpackChunk"] = self["webpackChunk"] || []).push([[219],{
 
 /***/ 609:

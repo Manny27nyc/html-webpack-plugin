@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Webpack require:
 var partial = require('./partial.html').default;
 var universal = require('./universial.js');

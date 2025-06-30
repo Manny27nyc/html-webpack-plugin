@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AsyncSeriesWaterfallHook } from "tapable";
 import { Compiler, Compilation } from "webpack";
 import { Options as HtmlMinifierOptions } from "html-minifier-terser";
